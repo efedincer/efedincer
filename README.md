@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&layout=compact&theme=radical)
+
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
 
