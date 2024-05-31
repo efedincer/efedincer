@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=efedincer&theme=react-dark)
+
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&layout=compact&theme=radical)
 
