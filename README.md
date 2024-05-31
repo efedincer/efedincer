@@ -10,6 +10,9 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
 
+## Visitor Count
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=efedincer.efedincer)
+
 
 <!--
 **efedincer/efedincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
