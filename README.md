@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
 
 
 <!--
