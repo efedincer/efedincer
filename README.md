@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Show Love 💖
+![GitHub followers](https://img.shields.io/github/followers/efedincer?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/efedincer?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+## Achievements
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=efedincer&theme=onedark)](https://github.com/efedincer)
+
+
 ## Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=efedincer&theme=react-dark)
 
