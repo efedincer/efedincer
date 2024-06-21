@@ -7,19 +7,12 @@
 ## Achievements
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=efedincer&theme=onedark)](https://github.com/efedincer)
 
-
-## Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=efedincer&theme=react-dark)
-
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&layout=compact&theme=radical)
-
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
 
-## Visitor Count
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=efedincer.efedincer)
 
 
 <!--
