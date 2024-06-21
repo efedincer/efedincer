@@ -7,9 +7,6 @@
 ## Achievements
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=efedincer&theme=onedark)](https://github.com/efedincer)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&layout=compact&theme=radical)
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
 
