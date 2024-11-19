@@ -1,30 +1,8 @@
-Coding since 2004
-Recently: .NET Core (with C#) + MS SQL Server
+Hi its Efe and I'm coding since 2004 \n\n
 
-Others from past:
-C
-Assembly
-Basic
-QBasic
-Pascal
-Arduino
-Python
-HTML
-CSS
-JavaScript
-Bootstrap
-PHP
-Wordpress
-phpBB
-OsCommerce
-Visual Basic 6.0
-Delphi
-C#
-Java
-MS SQL Server
-MySQL
-TypeScript
-Angular
+Recently Working On Projects that based on: .NET Core (with C#) + MS SQL Server
+
+Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS, JavaScript, Bootstrap, PHP, Wordpress, phpBB, OsCommerce, Visual Basic 6.0, Delphi, C#, Java, MS SQL Server, MySQL, TypeScript, Angular
 
 ## Hi there 👋
 
