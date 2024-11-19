@@ -1,3 +1,31 @@
+Coding since 2004
+Recently: .NET Core (with C#) + MS SQL Server
+
+Others from past:
+C
+Assembly
+Basic
+QBasic
+Pascal
+Arduino
+Python
+HTML
+CSS
+JavaScript
+Bootstrap
+PHP
+Wordpress
+phpBB
+OsCommerce
+Visual Basic 6.0
+Delphi
+C#
+Java
+MS SQL Server
+MySQL
+TypeScript
+Angular
+
 ## Hi there 👋
 
 ## Show Love 💖
