@@ -1,4 +1,4 @@
-Hi its Efe and I'm coding since 2004 \n\n
+Hi its Efe and I'm coding since 2004
 
 Recently Working On Projects that based on: .NET Core (with C#) + MS SQL Server
 
