@@ -1,6 +1,7 @@
 Hi its Efe and I'm coding since 2004
 
-Recently Working On Projects that based on: .NET Core (with C#) + MS SQL Server
+Recently Working On Projects that based on: .NET Core (with C# and codefirst) + MS SQL Server + EF Core
+(Web api, mvc etc)
 
 Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS, JavaScript, Bootstrap, PHP, Wordpress, phpBB, OsCommerce, Visual Basic 6.0, Delphi, C#, Java, MS SQL Server, MySQL, TypeScript, Angular
 
