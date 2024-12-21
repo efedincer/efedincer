@@ -6,6 +6,12 @@ Recently Working On Projects that based on: .NET Core (with C# and codefirst) + 
 
 Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS, JavaScript, Bootstrap, PHP, Wordpress, phpBB, OsCommerce, Visual Basic 6.0, Delphi, C#, Java, MS SQL Server, MySQL, TypeScript, Angular
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&layout=compact&theme=radical)
+
+
+
 ## Show Love 💖
 ![GitHub followers](https://img.shields.io/github/followers/efedincer?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/efedincer?affiliations=OWNER%2CCOLLABORATOR&style=social)
