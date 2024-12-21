@@ -6,7 +6,7 @@ Recently Working On Projects that based on: .NET Core (with C# and codefirst) + 
 
 Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS, JavaScript, Bootstrap, PHP, Wordpress, phpBB, OsCommerce, Visual Basic 6.0, Delphi, C#, Java, MS SQL Server, MySQL, TypeScript, Angular
 
-### Teknolojiler:
+### Techs:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=dot-net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,6 +19,9 @@ Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS
 
 ## Achievements
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=efedincer&theme=onedark)](https://github.com/efedincer)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
