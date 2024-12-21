@@ -20,13 +20,8 @@ Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS
 ## Achievements
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=efedincer&theme=onedark)](https://github.com/efedincer)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer)](https://github.com/anuraghazra/github-readme-stats)
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
-
-
 
 <!--
 **efedincer/efedincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
