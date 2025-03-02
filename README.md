@@ -4,7 +4,7 @@ Hi its Efe and I'm coding since 2004
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Visitor Count](https://api.countapi.xyz/hit/github.com/yourusername/yourrepository/visits)
+![Visitor Count](https://api.countapi.xyz/hit/github.com/efedincer/efedincer/visits)
 
 <!-- 
 Recently Working On Projects that based on: .NET Core (with C# and codefirst) + MS SQL Server + EF Core
