@@ -2,7 +2,7 @@ Hi its Efe and I'm coding since 2004
 ![GitHub followers](https://img.shields.io/github/followers/efedincer?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/efedincer?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 Recently Working On Projects that based on: .NET Core (with C# and codefirst) + MS SQL Server + EF Core
