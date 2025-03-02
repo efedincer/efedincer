@@ -27,6 +27,10 @@ Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-ECommerce-purple?logo=woocommerce&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blue?logo=githubactions&logoColor=white)
 
+![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-4-blueviolet?logo=vite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-6-blue?logo=wordpress&logoColor=white)
+
 ## Show Love 💖
 ![GitHub followers](https://img.shields.io/github/followers/efedincer?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/efedincer?affiliations=OWNER%2CCOLLABORATOR&style=social)
