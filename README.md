@@ -5,6 +5,8 @@ Recently Working On Projects that based on: .NET Core (with C# and codefirst) + 
 (Web api, mvc etc)
 
 Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS, JavaScript, Bootstrap, PHP, Wordpress, phpBB, OsCommerce, Visual Basic 6.0, Delphi, C#, Java, MS SQL Server, MySQL, TypeScript, Angular
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
 -->
 
 ## Show Love 💖
@@ -12,7 +14,7 @@ Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS
 ![GitHub stars](https://img.shields.io/github/stars/efedincer?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&hide_title=true&theme=radical)
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=efedincer&theme=onedark)](https://github.com/efedincer)
 
