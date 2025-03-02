@@ -1,12 +1,22 @@
 ## Hi there 👋
 Hi its Efe and I'm coding since 2004
-
+<!-- 
 Recently Working On Projects that based on: .NET Core (with C# and codefirst) + MS SQL Server + EF Core
 (Web api, mvc etc)
 
 Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS, JavaScript, Bootstrap, PHP, Wordpress, phpBB, OsCommerce, Visual Basic 6.0, Delphi, C#, Java, MS SQL Server, MySQL, TypeScript, Angular
+-->
+
+
 
 ### Techs:
+![.NET](https://img.shields.io/badge/.NET-8.0-purple?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8.0-blue?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9.0-blue?logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-2019-red?logo=microsoftsqlserver&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-17-red?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)
+
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=dot-net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
