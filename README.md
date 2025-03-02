@@ -11,16 +11,7 @@ Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS
 ![GitHub followers](https://img.shields.io/github/followers/efedincer?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/efedincer?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-## Achievements
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=efedincer&theme=onedark)](https://github.com/efedincer)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efedincer&show_icons=true&count_private=true&hide_title=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
