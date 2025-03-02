@@ -22,12 +22,6 @@ Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-![.NET 8](https://img.shields.io/badge/.NET-8.0-purple?logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8.0-blue?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9.0-blue?logo=csharp&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/SQL_Server-2019-red?logo=microsoftsqlserver&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-17-red?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-Real_Time-green?logo=signalr&logoColor=white)
 ![Hangfire](https://img.shields.io/badge/Hangfire-Task_Scheduler-brightgreen)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-ECommerce-purple?logo=woocommerce&logoColor=white)
