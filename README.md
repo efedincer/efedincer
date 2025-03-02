@@ -20,6 +20,7 @@ Others from past: C, Assembly, Basic, QBasic, Pascal, Arduino, Python, HTML, CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efedincer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **efedincer/efedincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
